@@ -7,6 +7,7 @@
             sum++;
         }
         System.out.println("i = " + sum);
+        System.out.println("Hello!  ");
     }
 
 }
